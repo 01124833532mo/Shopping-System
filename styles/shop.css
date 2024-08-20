@@ -1,0 +1,19 @@
+/* Shop Page Styles */
+.product-card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 20px;
+    text-align: center;
+    border-radius: 5px;
+}
+.product-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+.product-card h5 {
+    margin-top: 15px;
+}
+.product-card .btn {
+    margin-top: 10px;
+}
